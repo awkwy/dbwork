@@ -1,0 +1,7 @@
+quelles sont les principales elections 
+qui sont 2 premiere gagnant des ellection avec leur nombre de vote 
+(penser a creer des tables intermediaire)
+qui sont les dernier de chaque elections
+quelles ont etaient les elections les plus serree 
+quelles le classement des bureau de vote ayant recolter les moins de vote
+Combien de vote 
